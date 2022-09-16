@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    background-image: url('image/bg1.jpeg');
+}
+
+.footer {
+    background-color: aqua;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.decoration {
+    color: red;
+}
